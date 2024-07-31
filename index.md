@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog about Stars
 ---
 
 ⚝⚝⚝
@@ -19,6 +19,23 @@ Like a diamond in the sky.
 How I wonder what you are.
 
 ⚝⚝⚝
+
+## Five Topics About Stars
+
+### 1. How to Measure the Distance of a Star
+* This topic covers the fundamental method of stellar parallax and other techniques for measuring distances to celestial bodies.
+
+### 2. The Life Cycle of a Star
+* Explore the different stages of a star's life, from its birth in a nebula to its eventual demise as a white dwarf, neutron star, or black hole.
+
+### 3. Types of Stars
+* Discuss the various classifications of stars based on their size, temperature, and luminosity, including main sequence stars, giants, supergiants, and white dwarfs.
+
+### 4. Constellations and Star Patterns
+* Delve into the history and mythology of constellations, explaining how they were formed and the stories associated with them.
+
+### 5. Stargazing Tips and Equipment
+* Provide practical advice for amateur astronomers, including recommended equipment, observing techniques, and finding celestial objects in the night sky. 
 
 **Would you like to learn more about stars?**
 * [Link to NASA website](https://www.nasa.gov/)

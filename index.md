@@ -22,7 +22,7 @@ How I wonder what you are.
 
 ## Five Topics About Stars
 
-### 1. How to Measure the Distance of a Star
+### [1. How to Measure the Distance of a Star](https://tanteckliang.github.io/skills-github-pages/2024/07/31/measure_star_distance.html)
 * This topic covers the fundamental method of stellar parallax and other techniques for measuring distances to celestial bodies.
 
 ### 2. The Life Cycle of a Star

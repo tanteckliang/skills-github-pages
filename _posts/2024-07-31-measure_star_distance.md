@@ -42,5 +42,3 @@ For stars beyond the reach of parallax, astronomers use other techniques:
 ### Conclusion
 
 Measuring the distance to stars is a complex but essential task in astronomy. While parallax is the primary method for nearby stars, other techniques are necessary for more distant objects.
-
-**Would you like to delve deeper into specific methods or explore related topics like Cepheid variables or standard candles?**

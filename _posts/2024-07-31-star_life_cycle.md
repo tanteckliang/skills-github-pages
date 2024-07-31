@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5205024b-4b6b-4e21-bd30-8731e8797f34)---
+---
 title: "The Life Cycle of a Star"
 date: 2024-07-31
 ---

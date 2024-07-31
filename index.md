@@ -20,7 +20,7 @@ How I wonder what you are.
 ### [1. How to Measure the Distance of a Star](https://tanteckliang.github.io/skills-github-pages/2024/07/31/measure_star_distance.html)
 * This topic covers the fundamental method of stellar parallax and other techniques for measuring distances to celestial bodies.
 
-### 2. The Life Cycle of a Star
+### [2. The Life Cycle of a Star](https://tanteckliang.github.io/skills-github-pages/2024/07/31/star_life_cycle.html)
 * Explore the different stages of a star's life, from its birth in a nebula to its eventual demise as a white dwarf, neutron star, or black hole.
 
 ### 3. Types of Stars

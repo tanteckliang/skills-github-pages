@@ -23,7 +23,7 @@ How I wonder what you are.
 ### [2. The Life Cycle of a Star](https://tanteckliang.github.io/skills-github-pages/2024/07/31/star_life_cycle.html)
 * Explore the different stages of a star's life, from its birth in a nebula to its eventual demise as a white dwarf, neutron star, or black hole.
 
-### 3. Types of Stars
+### [3. Types of Stars](https://tanteckliang.github.io/skills-github-pages/2024/07/31/star_types.html)
 * Discuss the various classifications of stars based on their size, temperature, and luminosity, including main sequence stars, giants, supergiants, and white dwarfs.
 
 ### 4. Constellations and Star Patterns

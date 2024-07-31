@@ -33,6 +33,8 @@ date: 2024-07-31
 * **Attend stargazing events:** Participate in public stargazing events to share the experience.
 * **Capture the night sky:** Try astrophotography to create stunning images.
 
-[Image of a person stargazing with a telescope]
+![Image of a person stargazing with a telescope](https://i.natgeofe.com/n/cc969425-bc76-4bbc-96c6-8941b0bd503f/17_telescope_festival_astronomy_ormerod-24.jpg?w=1436&h=2154)
+*An amateur astonomer sets up his telescope after sun has gone down as Stellafane.*
+*PHOTOGRAPH BY ROBERT ORMEROD ([link](https://www.nationalgeographic.com/science/article/telescope-festival))*
 
 **Remember:** Stargazing is a rewarding hobby that can be enjoyed by people of all ages. With a little preparation and patience, you can discover the wonders of the night sky.

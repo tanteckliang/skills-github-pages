@@ -13,7 +13,7 @@ Measuring the distance to stars, known as stellar parallax, is a fundamental con
 
 Stellar parallax is the apparent shift in a star's position relative to more distant background stars as observed from different points in Earth's orbit around the Sun. This shift is caused by the Earth's motion and is used to calculate the distance to the star.
 
-[Image of stellar parallax](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stellarparallax_parsec1.svg/440px-Stellarparallax_parsec1.svg.png)
+![Image of stellar parallax](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stellarparallax_parsec1.svg/440px-Stellarparallax_parsec1.svg.png)
 
 ### Measuring Parallax
 

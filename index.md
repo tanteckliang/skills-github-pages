@@ -42,3 +42,5 @@ How I wonder what you are.
 * [Link to Wikipedia article about stars](https://en.wikipedia.org/wiki/Star)
 
 ☆☆☆
+
+![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg)

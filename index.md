@@ -2,25 +2,20 @@
 title: Welcome to my blog about Stars
 ---
 
-⚝⚝⚝
+⚝⚝⚝ ☆☆☆ ★★★ ☆☆☆ ⚝⚝⚝
 
 ## Twinkle, Twinkle, Little Star
-
-☆☆☆
 
 **Twinkle, twinkle, little star,**
 How I wonder what you are.
 Up above the world so high,
 Like a diamond in the sky.
 
-★★★
-
 **Twinkle, twinkle, little star,**
 How I wonder what you are.
 
-⚝⚝⚝
 
-## Five Topics About Stars
+## ⚝⚝⚝⚝⚝ Five Topics About Stars ⚝⚝⚝⚝⚝
 
 ### [1. How to Measure the Distance of a Star](https://tanteckliang.github.io/skills-github-pages/2024/07/31/measure_star_distance.html)
 * This topic covers the fundamental method of stellar parallax and other techniques for measuring distances to celestial bodies.
@@ -40,7 +35,5 @@ How I wonder what you are.
 **Would you like to learn more about stars?**
 * [Link to NASA website](https://www.nasa.gov/)
 * [Link to Wikipedia article about stars](https://en.wikipedia.org/wiki/Star)
-
-☆☆☆
 
 ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg)

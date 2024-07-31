@@ -26,10 +26,10 @@ How I wonder what you are.
 ### [3. Types of Stars](https://tanteckliang.github.io/skills-github-pages/2024/07/31/star_types.html)
 * Discuss the various classifications of stars based on their size, temperature, and luminosity, including main sequence stars, giants, supergiants, and white dwarfs.
 
-### 4. Constellations and Star Patterns
+### [4. Constellations and Star Patterns](https://tanteckliang.github.io/skills-github-pages/2024/07/31/constellations.html)
 * Delve into the history and mythology of constellations, explaining how they were formed and the stories associated with them.
 
-### 5. Stargazing Tips and Equipment
+### [5. Stargazing Tips and Equipment](https://tanteckliang.github.io/skills-github-pages/2024/07/31/stargazing.html)
 * Provide practical advice for amateur astronomers, including recommended equipment, observing techniques, and finding celestial objects in the night sky. 
 
 **Would you like to learn more about stars?**
